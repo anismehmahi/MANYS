@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347713885985",
+    "project_id": "mardi-a3fcb",
+    "storage_bucket": "mardi-a3fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347713885985:android:8a1d0c337b56e659a09060",
+        "android_client_info": {
+          "package_name": "com.aniscoffee.koko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347713885985-7o02a8hb3pd697iludp8h1pohqaje2hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQC2_pzdjv3yyfFaZtou7z5UBAOXfteQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347713885985-7o02a8hb3pd697iludp8h1pohqaje2hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
